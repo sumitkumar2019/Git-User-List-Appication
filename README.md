@@ -10,8 +10,8 @@
 ### Clone the Application
 
 - open the command line
-- For UI - git clone https://github.com/sumitkumar2019/Git-User-List-Appication/Git-Users-List-APP.git
-- For Server - git clone https://github.com/sumitkumar2019/Git-User-List-Appication/Git-Users-List-ApI.git
+- For UI - git clone https://github.com/sumitkumar2019/Git-User-List-Appication/git-users-list-app.git
+- For Server - git clone https://github.com/sumitkumar2019/Git-User-List-Appication/git-users-list-api.git
 
 ### To Run Git-Users-List Application
 
